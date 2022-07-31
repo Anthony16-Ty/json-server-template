@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "roll no": "021",
+      "name": "Esther",
+      "email": "Esther@gmail.com"
+    },
+    {
+      "id": 2,
+      "roll no": "022",
+      "name": "Palmer",
+      "email": "Palmer@gmail.com"
+    },
+    {
+      "id": 3,
+      "roll no": "023",
+      "name": "john",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": 4,
+      "roll no": "024",
+      "name": "Jojo",
+      "email": "jojo@gmail.com"
+    },
+    {
+      "id": 5,
+      "roll no": "025",
+      "name": "brandy",
+      "email": "brandy@gmail.com"
+    },
+    {
+      "id": 6,
+      "roll no": "026",
+      "name": "Woody",
+      "email": "woody@gmail.com"
+    },
+    {
+      "name": "Roro",
+      "email": "roro@gmail.com",
+      "rollno": 27,
+      "id": 8
+    }
+  ]
+}
