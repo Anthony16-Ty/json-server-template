@@ -2,38 +2,45 @@
   "students": [
     {
       "id": 1,
-      "adm no": "021",
+      "no": "021",
       "name": "Esther",
       "email": "Esther@gmail.com"
     },
     {
       "id": 2,
-      "adm no": "022",
+      "no": "022",
       "name": "Palmer",
       "email": "Palmer@gmail.com"
     },
     {
       "id": 3,
-      "adm no": "023",
+      "no": "023",
       "name": "john",
       "email": "john@gmail.com"
     },
-      {
-        "id": 4,
-        "adm no": "024",
-        "name": "Jojo",
-        "email": "jojo@gmail.com"
-      },
-      { "id": 5,
-      "adm no": "025",
+    {
+      "id": 4,
+      "no": "024",
+      "name": "Jojo",
+      "email": "jojo@gmail.com"
+    },
+    {
+      "id": 5,
+      "no": "025",
       "name": "brandy",
       "email": "brandy@gmail.com"
-      },
-      {
-          "id": 6,
-          "adm no": "026",
-          "name": "Woody",
-          "email": "woody@gmail.com"
-       }
-    ]
+    },
+    {
+      "id": 6,
+      "no": "026",
+      "name": "Woody",
+      "email": "woody@gmail.com"
+    },
+    {
+      "name": "Roro",
+      "email": "roro@gmail.com",
+      "no": 27,
+      "id": 8
+    }
+  ]
 }
